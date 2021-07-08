@@ -1,4 +1,4 @@
-//Day - 2 Javs Script Essentials Program code by CHETAN 
+//Day - 2 Java Script Essentials Program code by CHETAN 
 
 //A program to print 5 times "*" horizontally in a single row
 
